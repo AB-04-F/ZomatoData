@@ -1,0 +1,127 @@
+[{
+        "menu_id": 1,
+        "user_name": "Akash",
+        "menu_name": "pav-bhaji",
+        "menu_type": "veg",
+        "menu_price": 90,
+        "state": "Gujarat",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 2,
+        "user_name": "Samarpan",
+        "menu_name": "egg-bhurji",
+        "menu_type": "non-veg",
+        "menu_price": 150,
+        "state": "Gujarat",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 4,
+        "user_name": "Jevin",
+        "menu_name": "Sezwan Masala Dosa",
+        "menu_type": "veg",
+        "menu_price": 140,
+        "state": "Rajasthan",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 5,
+        "user_name": "Henil",
+        "menu_name": "Mutton Biryani",
+        "menu_type": "non-veg",
+        "menu_price": 90,
+        "state": "Chennai",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 6,
+        "user_name": " Akash",
+        "menu_name": "Green-tea",
+        "menu_type": "Tea-coffee",
+        "menu_price": 45,
+        "state": "Mumbai, Maharashtra",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 7,
+        "user_name": "Het",
+        "menu_name": "Pasta Salad",
+        "menu_type": "salad",
+        "menu_price": 27,
+        "state": "UP",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 8,
+        "user_name": "Jevin",
+        "menu_name": "Oreo Shake",
+        "menu_type": "drink",
+        "menu_price": 35,
+        "state": "Gujarat",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 9,
+        "user_name": "Rutvik",
+        "menu_name": "Spring Rolls",
+        "menu_type": "Veg",
+        "menu_price": 55,
+        "state": "Delhi",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 10,
+        "user_name": "Samarpan",
+        "menu_name": "Aloo Tikki",
+        "menu_type": "Veg",
+        "menu_price": 90,
+        "state": "Hydrabad",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 11,
+        "user_name": "Akash , Het , Nand , Shradhdha , Shreya",
+        "menu_name": "Special Gujarati Thali",
+        "menu_type": "Veg",
+        "menu_price": 190,
+        "state": "Joshipura , Junagadh ",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 12,
+        "user_name": " Shreya",
+        "menu_name": "Garlic Soup",
+        "menu_type": "Soup",
+        "menu_price": 20,
+        "state": "Joshipura , Junagadh ",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 13,
+        "user_name": " Parul",
+        "menu_name": "Badam Milk",
+        "menu_type": "shake",
+        "menu_price": 75,
+        "state": "Mumbai, Maharashtra",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 14,
+        "user_name": " Aditi , Akash",
+        "menu_name": "Pani-puri",
+        "menu_type": "Veg",
+        "menu_price": 80,
+        "state": "Mumbai, Maharashtra",
+        "last_logged_in": "2022-03-25"
+    },
+    {
+        "menu_id": 15,
+        "user_name": "  Akash",
+        "menu_name": "Sweet Corn Veg Soup",
+        "menu_type": "Soup",
+        "menu_price": 40,
+        "state": "Gurugram , Hariyana",
+        "last_logged_in": "2022-03-25"
+    }
+]
